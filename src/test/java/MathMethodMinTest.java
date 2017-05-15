@@ -7,4 +7,4 @@ public class MathMethodMinTest {
             System.out.println(y);
         }
     }
-}
+
